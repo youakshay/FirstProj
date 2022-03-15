@@ -1,0 +1,4 @@
+Hello everyone 
+This is a file containing some text
+we are going to read this using in our website using django
+inside project 3
